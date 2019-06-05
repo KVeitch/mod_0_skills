@@ -7,9 +7,9 @@ squareFootage(float)
 wallColor(string)
 hasWindows(boolean)
 subject(string)
+lightsOn(boolean)
 
 addDesk(increase the numberOfDesk by 1)
 paintWalls(changes wallColor)
 addRoomDivider(decreases squareFootage and changes roomNumber)
 assignNewTeacher(changes teacher)
- 
