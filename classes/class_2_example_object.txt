@@ -11,4 +11,4 @@ hasChocolateMilk(Boolean)		True
 checkServing					false   (it’s 11:05)
 lunchTime						false
 mopFloor						true
-newMenu							Spaghetti and Meatless Balls
+newMenu							Nutfree butter and Jelly Sandwich
