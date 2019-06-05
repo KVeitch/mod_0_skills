@@ -1,0 +1,14 @@
+234 Mr. Johnson English Class
+
+roomNumber(string)                      234
+teacher(string)							Mr. Johnson
+numberOfDesks(integer) 				    27
+squareFootage(float)					400.2
+wallColor(string)						offWhite
+hasWindows(boolean)						False
+subject(string)							English
+
+addDesk(increase the numberOfDesk by 1)	28
+paintWalls(changes wallColor)			pink
+addRoomDivider(decreases squareFootage and changes roomNumber)							200.1, 234b
+assignNewTeacher(changes teacher)	Ms. Smith

@@ -1,0 +1,15 @@
+Classroom
+
+roomNumber(string)   i.e. 123a and 123b
+numberOfDesks(integer) 
+teacher(string)
+squareFootage(float)
+wallColor(string)
+hasWindows(boolean)
+subject(string)
+
+addDesk(increase the numberOfDesk by 1)
+paintWalls(changes wallColor)
+addRoomDivider(decreases squareFootage and changes roomNumber)
+assignNewTeacher(changes teacher)
+ 
