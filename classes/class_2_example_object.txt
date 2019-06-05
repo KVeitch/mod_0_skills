@@ -1,0 +1,14 @@
+High Tech Elementary Cafeteria
+
+servingFood(boolean)			false
+lunchStart(timeDate)			11:35.00
+lunchEnd(timeDate)				12:38.00
+TablesDeployed(boolean)			false
+cleaned(boolean)				false
+mainCourse(string)				Mac and Cheese
+hasChocolateMilk(Boolean)		True
+
+checkServing					false   (it’s 11:05)
+lunchTime						false
+mopFloor						true
+newMenu							Spaghetti and Meatless Balls
