@@ -1,0 +1,66 @@
+How to become a Turing Student
+
+1. Decide to change careers
+	1.1 Get frustrated at current job
+		1.1.1 Lack growth
+		1.1.2 Have unresponsive manager
+2. Try Coding Weekend
+	2.1 Enrole in class
+	2.2 Enjoy class
+3. Application
+	3.1 Locate application on internet
+		3.1.1 Go to turing.io
+4. Interview
+	4.1 Schedule interview with Erin
+5. Mod-0
+	5.1 Session 1
+		5.1.1 Session 1 HW
+		5.1.2 Session 1 Survey
+	5.2 Session 2
+		5.2.1 Session 2 HW
+		5.2.2 Session 2 Survey
+	5.3 Session 3
+		5.3.1 Session 3 HW
+		5.3.2 Session 3 Survey
+	5.4 Session 4
+		5.4.1 Season 4 HW
+		5.4.2 Session 4 Survey
+	5.5 Session 5
+		5.5.1 Session 5 HW 
+		5.5.2 Session 5 Survey
+		5.5.3 Technical Assessment
+6. Decide on a school
+	6.1 Examine schools
+		6.1.1 Check out boot camps
+			6.1.1.1 Galvanized
+				6.1.1.1.1 Search the internet
+				6.1.1.1.2 Ask personal network
+				6.1.1.1.3 Ask wife’s extended network
+			6.1.1.2 Turing
+				6.1.1.2.1 Search the internet
+				6.1.1.2.2 Ask personal network
+				6.1.1.2.3 Ask wife’s extended network
+			6.1.1.3 DU Cyber security boot camp
+				6.1.1.3.1 Search the internet
+				6.1.1.3.2 Ask personal network
+				6.1.1.3.3 Ask wife’s extended network
+		6.1.2 Check out traditional schools
+			6.1.2.1 CU
+			6.1.2.2 School of Mines
+7. Decide the Turing is the school you want to attent
+	7.1 Investigate community
+		7.1.1 Attend an  “Ask Jeff” session
+		7.1.2 Talk to current students
+		7.1.3 Talk with Alumni
+	7.2 Be able to afford Turring
+		7.2.1 Check available finances
+		7.2.2 Check student load possibilities
+		7.2.3 Start collecting coins you see on the ground
+	7.3 Location
+		7.3.1 Investigate possible commutes
+			7.3.1.1 Investigate E-board routes
+			7.3.1.2 Investigate Lightrail routes
+			7.3.1.3 Investigate Driving
+				7.3.1.3.1 Investigate Parking possibilities
+			7.3.1.4 Investigate Combination routes 
+				7.3.1.4.1 E-board and Lightrail
