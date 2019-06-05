@@ -9,6 +9,6 @@ mainCourse(string)
 hasChocolateMilk(Boolean)
 
 checkServing(returns true or false from servingFood)
-lunchTime(compares current timeDate to lunchStart and lunchEnd and returns true of false)
+lunchTime(compares current timeDate and to lunchStart and lunchEnd and returns true of false)
 mopFloor(changes the cleaned attribute to true)
 newMenu(changes mainCourse)
